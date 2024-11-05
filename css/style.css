@@ -7,3 +7,7 @@ div {
     width: 50%;
     border: 2px solid red;
 }
+
+article {
+    border: 2px solid green;
+}
